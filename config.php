@@ -1,10 +1,10 @@
 <?php
 return array(
-    'environmentURL' => 'http://tpv.ceca.es:8000/cgi-bin/tpv', // Puedes indicar test o real
-    'MerchantID' => '144167962',
-    'AcquirerBIN' => '0000554055',
-    'TerminalID' => '00000003',
-    'Clave_encriptacion' => 'LG7NYEF6',
+    'environmentURL' => 'http://tpv.ceca.es:8000/cgi-bin/tpv',
+    'MerchantID' => '1234567890',
+    'AcquirerBIN' => '1234567890',
+    'TerminalID' => '1234567890',
+    'Clave_encriptacion' => 'QWERTY',
     'TipoMoneda' => '978',
     'Exponente' => '2',
     'Cifrado' => 'SHA2',
